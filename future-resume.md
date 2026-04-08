@@ -25,7 +25,7 @@
 - used Java, Firebase, Google Location API
 - focused on location authentication, user management
 ### 임베디드 보드를 활용한 인공지능 최적화 시스템 
-
+- used Rasberry Pi, pytorch.
 ## Certifications
 - SQLD
 - ADsP
